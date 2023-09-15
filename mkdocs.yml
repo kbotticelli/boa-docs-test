@@ -1,6 +1,6 @@
 site_name: boa_docs_test # Change this to your site name
 site_description: BOA Docs
-site_url: https://github.com/kbotticelli/boa-docs-test # Change this to your site URL
+site_url: https://kbotticelli.github.io/boa-docs-test/ # Change this to your site URL
 
 theme:
     name: 'material'
